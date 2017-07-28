@@ -109,7 +109,7 @@
 		<div id="toc" class="toc-article">
 			<strong class="toc-title">文章目录</strong>
 		
-			<ol class="toc"><li class="toc-item toc-level-6"><a class="toc-link" href="#从0开始从无到有"><span class="toc-number">1.</span> <span class="toc-text">从0开始从无到有</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#初始化目录进行学习"><span class="toc-number">2.</span> <span class="toc-text">初始化目录进行学习</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#最后的啰嗦"><span class="toc-number">3.</span> <span class="toc-text">最后的啰嗦</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#推送演示"><span class="toc-number">4.</span> <span class="toc-text">推送演示</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#拉取演示"><span class="toc-number">5.</span> <span class="toc-text">拉取演示</span></a></li></ol>
+			<ol class="toc"><li class="toc-item toc-level-6"><a class="toc-link" href="#从0开始从无到有"><span class="toc-number">1.</span> <span class="toc-text">从0开始从无到有</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#初始化目录进行学习"><span class="toc-number">2.</span> <span class="toc-text">初始化目录进行学习</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#最后的啰嗦"><span class="toc-number">3.</span> <span class="toc-text">最后的啰嗦</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#推送演示"><span class="toc-number">4.</span> <span class="toc-text">推送演示</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#拉取演示"><span class="toc-number">5.</span> <span class="toc-text">拉取演示</span></a></li></ol></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#TortoiseGit的弊端"><span class="toc-number"></span> <span class="toc-text">TortoiseGit的弊端</span></a>
 		
 		</div>
 		
@@ -208,6 +208,20 @@
 <pre><code>git log
 </code></pre><p>查看指定分支log</p>
 <pre><code>git log source
+</code></pre><p>加入到版本控制</p>
+<pre><code>git add 文件名
+git add 文件名1 文件名2 文件名3
+git add -A  //加入此目录下所有文件到版本控制
+//支持相对路径哦
+</code></pre><p>提交文件修改</p>
+<pre><code>git commit -m &quot;备注信息&quot;
+</code></pre><p>吐槽<br>可以新建一个shell脚本保存起来直接放到根目录直接点击就可以提交了。</p>
+<h4 id="TortoiseGit的弊端"><a href="#TortoiseGit的弊端" class="headerlink" title="TortoiseGit的弊端"></a>TortoiseGit的弊端</h4><p>大量文件无法右键菜单添加会卡死，然而你只需要里面的几个文件，那么这玩意真心浪费时间，没有命令行或者shell的快</p>
+<p>下面是我的shell脚本 window</p>
+<pre><code>set /p message=&quot;请输入提交说明:&quot;
+git add -A &amp;&amp; git commit -m  &quot;%message%&quot; 
+git push --progress origin source
+pause
 </code></pre>  
 	</div>
 		<footer class="article-footer clearfix">
@@ -297,7 +311,7 @@
   <div id="toc" class="toc-aside">
   <strong class="toc-title">文章目录</strong>
  
- <ol class="toc"><li class="toc-item toc-level-6"><a class="toc-link" href="#从0开始从无到有"><span class="toc-number">1.</span> <span class="toc-text">从0开始从无到有</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#初始化目录进行学习"><span class="toc-number">2.</span> <span class="toc-text">初始化目录进行学习</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#最后的啰嗦"><span class="toc-number">3.</span> <span class="toc-text">最后的啰嗦</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#推送演示"><span class="toc-number">4.</span> <span class="toc-text">推送演示</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#拉取演示"><span class="toc-number">5.</span> <span class="toc-text">拉取演示</span></a></li></ol>
+ <ol class="toc"><li class="toc-item toc-level-6"><a class="toc-link" href="#从0开始从无到有"><span class="toc-number">1.</span> <span class="toc-text">从0开始从无到有</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#初始化目录进行学习"><span class="toc-number">2.</span> <span class="toc-text">初始化目录进行学习</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#最后的啰嗦"><span class="toc-number">3.</span> <span class="toc-text">最后的啰嗦</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#推送演示"><span class="toc-number">4.</span> <span class="toc-text">推送演示</span></a></li><li class="toc-item toc-level-6"><a class="toc-link" href="#拉取演示"><span class="toc-number">5.</span> <span class="toc-text">拉取演示</span></a></li></ol></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#TortoiseGit的弊端"><span class="toc-number"></span> <span class="toc-text">TortoiseGit的弊端</span></a>
  
   </div>
 
@@ -372,23 +386,11 @@
 			
 		
 			
-				<li><a href="/tags/版本控制/" title="版本控制">版本控制<sup>2</sup></a></li>
-			
-		
-			
 				<li><a href="/tags/Git/" title="Git">Git<sup>2</sup></a></li>
 			
 		
 			
-				<li><a href="/tags/JAVA/" title="JAVA">JAVA<sup>1</sup></a></li>
-			
-		
-			
-				<li><a href="/tags/科幻/" title="科幻">科幻<sup>1</sup></a></li>
-			
-		
-			
-				<li><a href="/tags/链接/" title="链接">链接<sup>1</sup></a></li>
+				<li><a href="/tags/版本控制/" title="版本控制">版本控制<sup>2</sup></a></li>
 			
 		
 			
@@ -396,7 +398,7 @@
 			
 		
 			
-				<li><a href="/tags/CDN/" title="CDN">CDN<sup>1</sup></a></li>
+				<li><a href="/tags/科幻/" title="科幻">科幻<sup>1</sup></a></li>
 			
 		
 			
@@ -404,15 +406,7 @@
 			
 		
 			
-				<li><a href="/tags/QQ技巧/" title="QQ技巧">QQ技巧<sup>1</sup></a></li>
-			
-		
-			
-				<li><a href="/tags/潜规则/" title="潜规则">潜规则<sup>1</sup></a></li>
-			
-		
-			
-				<li><a href="/tags/android-studio/" title="android studio">android studio<sup>1</sup></a></li>
+				<li><a href="/tags/代码编写/" title="代码编写">代码编写<sup>1</sup></a></li>
 			
 		
 			
@@ -420,7 +414,23 @@
 			
 		
 			
-				<li><a href="/tags/测试/" title="测试">测试<sup>1</sup></a></li>
+				<li><a href="/tags/潜规则/" title="潜规则">潜规则<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/CDN/" title="CDN">CDN<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/七牛/" title="七牛">七牛<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/JAVA/" title="JAVA">JAVA<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/android-studio/" title="android studio">android studio<sup>1</sup></a></li>
 			
 		
 			
@@ -428,11 +438,15 @@
 			
 		
 			
-				<li><a href="/tags/代码编写/" title="代码编写">代码编写<sup>1</sup></a></li>
+				<li><a href="/tags/链接/" title="链接">链接<sup>1</sup></a></li>
 			
 		
 			
-				<li><a href="/tags/七牛/" title="七牛">七牛<sup>1</sup></a></li>
+				<li><a href="/tags/测试/" title="测试">测试<sup>1</sup></a></li>
+			
+		
+			
+				<li><a href="/tags/QQ技巧/" title="QQ技巧">QQ技巧<sup>1</sup></a></li>
 			
 		
 		</ul>
