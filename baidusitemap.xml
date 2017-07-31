@@ -75,59 +75,6 @@
     
     
     
-    
-    
-    
-    
-    
-    
-  <url>
-    <loc>http://www.qssq666.cn/2016/11/04/like_video/</loc>
-    <lastmod>2017-04-23T13:57:08.000Z</lastmod>
-    <data>
-        <display>
-        <title>科幻视频推荐</title>
-        <pubTime>2016-11-03T16:00:00.000Z</pubTime>
-        
-        <tag>科幻</tag>
-         
-         
-           
-             
-              <breadCrumb title="科幻" url="http://www.qssq666.cn/categories/%E7%A7%91%E5%B9%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-    
-  <url>
-    <loc>http://www.qssq666.cn/2016/09/05/video/</loc>
-    <lastmod>2017-04-23T13:57:08.000Z</lastmod>
-    <data>
-        <display>
-        <title>测试视频预览</title>
-        <pubTime>2016-09-04T16:00:00.000Z</pubTime>
-        
-        <tag>视频</tag>
-         
-         
-           
-             
-              <breadCrumb title="测试" url="http://www.qssq666.cn/categories/%E6%B5%8B%E8%AF%95/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-    
-    
-    
-    
-    
-    
   <url>
     <loc>http://www.qssq666.cn/2016/09/05/notitle/</loc>
     <lastmod>2017-04-23T13:57:08.000Z</lastmod>
@@ -153,25 +100,34 @@
     
     
     
+    
   <url>
-    <loc>http://www.qssq666.cn/2016/11/02/%E6%89%8B%E6%9C%BAqq%E6%8A%80%E5%B7%A7/</loc>
+    <loc>http://www.qssq666.cn/2016/11/04/pic_qiniu_test/</loc>
     <lastmod>2017-04-23T13:57:08.000Z</lastmod>
     <data>
         <display>
-        <title>手机QQ技巧攻略</title>
-        <pubTime>2016-11-01T16:00:00.000Z</pubTime>
+        <title>赵奕欢</title>
+        <pubTime>2016-11-03T16:00:00.000Z</pubTime>
         
-        <tag>QQ技巧</tag>
+        <tag>图片</tag>
          
          
            
              
-              <breadCrumb title="QQ技巧" url="http://www.qssq666.cn/categories/QQ%E6%8A%80%E5%B7%A7/"/>
+              <breadCrumb title="美女" url="http://www.qssq666.cn/categories/%E7%BE%8E%E5%A5%B3/"/>
           
         </display>
     </data>
     </url>
 
+    
+    
+    
+    
+    
+    
+    
+    
     
   <url>
     <loc>http://www.qssq666.cn/2016/09/05/link/</loc>
@@ -187,6 +143,29 @@
            
              
               <breadCrumb title="测试" url="http://www.qssq666.cn/categories/%E6%B5%8B%E8%AF%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+  <url>
+    <loc>http://www.qssq666.cn/2016/11/04/like_video/</loc>
+    <lastmod>2017-04-23T13:57:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>科幻视频推荐</title>
+        <pubTime>2016-11-03T16:00:00.000Z</pubTime>
+        
+        <tag>科幻</tag>
+         
+         
+           
+             
+              <breadCrumb title="科幻" url="http://www.qssq666.cn/categories/%E7%A7%91%E5%B9%BB/"/>
           
         </display>
     </data>
@@ -214,6 +193,47 @@
 
     
   <url>
+    <loc>http://www.qssq666.cn/2016/09/05/video/</loc>
+    <lastmod>2017-04-23T13:57:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>测试视频预览</title>
+        <pubTime>2016-09-04T16:00:00.000Z</pubTime>
+        
+        <tag>视频</tag>
+         
+         
+           
+             
+              <breadCrumb title="测试" url="http://www.qssq666.cn/categories/%E6%B5%8B%E8%AF%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>http://www.qssq666.cn/2016/11/02/%E6%89%8B%E6%9C%BAqq%E6%8A%80%E5%B7%A7/</loc>
+    <lastmod>2017-04-23T13:57:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>手机QQ技巧攻略</title>
+        <pubTime>2016-11-01T16:00:00.000Z</pubTime>
+        
+        <tag>QQ技巧</tag>
+         
+         
+           
+             
+              <breadCrumb title="QQ技巧" url="http://www.qssq666.cn/categories/QQ%E6%8A%80%E5%B7%A7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.qssq666.cn/2016/09/05/categorizestest/</loc>
     <lastmod>2017-04-23T13:57:08.000Z</lastmod>
     <data>
@@ -233,26 +253,6 @@
               <breadCrumb title="湖南" url="http://www.qssq666.cn/categories/%E5%9C%B0%E7%90%83/%E4%B8%AD%E5%9B%BD/%E6%B9%96%E5%8D%97/"/>
           
              
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.qssq666.cn/2016/11/04/pic_qiniu_test/</loc>
-    <lastmod>2017-04-23T13:57:08.000Z</lastmod>
-    <data>
-        <display>
-        <title>赵奕欢</title>
-        <pubTime>2016-11-03T16:00:00.000Z</pubTime>
-        
-        <tag>图片</tag>
-         
-         
-           
-             
-              <breadCrumb title="美女" url="http://www.qssq666.cn/categories/%E7%BE%8E%E5%A5%B3/"/>
-          
         </display>
     </data>
     </url>
@@ -306,14 +306,18 @@
 
     
   <url>
-    <loc>http://www.qssq666.cn/2017/06/01/new_dynamic/</loc>
+    <loc>http://www.qssq666.cn/2016/08/24/markdown/</loc>
     <lastmod>2016-08-27T06:04:45.000Z</lastmod>
     <data>
         <display>
-        <title>我想我恐怕不想更新了</title>
-        <pubTime>2017-06-01T13:55:42.400Z</pubTime>
+        <title>markdown常见和不常见语法部分语法静态网站生成器没有识别哈</title>
+        <pubTime>2016-08-23T16:00:00.000Z</pubTime>
         
-        <tag>潜规则</tag>
+        <tag>WEB</tag>
+         
+        <tag>markdown</tag>
+         
+        <tag>代码编写</tag>
          
          
            
@@ -348,18 +352,14 @@
 
     
   <url>
-    <loc>http://www.qssq666.cn/2016/08/24/markdown/</loc>
+    <loc>http://www.qssq666.cn/2017/06/01/new_dynamic/</loc>
     <lastmod>2016-08-27T06:04:45.000Z</lastmod>
     <data>
         <display>
-        <title>markdown常见和不常见语法部分语法静态网站生成器没有识别哈</title>
-        <pubTime>2016-08-23T16:00:00.000Z</pubTime>
+        <title>我想我恐怕不想更新了</title>
+        <pubTime>2017-06-01T13:55:42.400Z</pubTime>
         
-        <tag>WEB</tag>
-         
-        <tag>markdown</tag>
-         
-        <tag>代码编写</tag>
+        <tag>潜规则</tag>
          
          
            
