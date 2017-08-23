@@ -76,25 +76,6 @@
     
     
     
-  <url>
-    <loc>http://www.qssq666.cn/2016/11/04/like_video/</loc>
-    <lastmod>2017-04-23T13:57:08.000Z</lastmod>
-    <data>
-        <display>
-        <title>科幻视频推荐</title>
-        <pubTime>2016-11-03T16:00:00.000Z</pubTime>
-        
-        <tag>科幻</tag>
-         
-         
-           
-             
-              <breadCrumb title="科幻" url="http://www.qssq666.cn/categories/%E7%A7%91%E5%B9%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
     
     
     
@@ -120,11 +101,53 @@
     </url>
 
     
+  <url>
+    <loc>http://www.qssq666.cn/2016/11/04/like_video/</loc>
+    <lastmod>2017-04-23T13:57:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>科幻视频推荐</title>
+        <pubTime>2016-11-03T16:00:00.000Z</pubTime>
+        
+        <tag>科幻</tag>
+         
+         
+           
+             
+              <breadCrumb title="科幻" url="http://www.qssq666.cn/categories/%E7%A7%91%E5%B9%BB/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
     
     
     
     
+    
+    
+    
+    
+  <url>
+    <loc>http://www.qssq666.cn/2016/09/05/link/</loc>
+    <lastmod>2017-04-23T13:57:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>点击标题链接跳转到指定网址</title>
+        <pubTime>2016-09-04T16:00:00.000Z</pubTime>
+        
+        <tag>链接</tag>
+         
+         
+           
+             
+              <breadCrumb title="测试" url="http://www.qssq666.cn/categories/%E6%B5%8B%E8%AF%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
     
     
@@ -148,45 +171,6 @@
     </url>
 
     
-  <url>
-    <loc>http://www.qssq666.cn/2016/09/05/link/</loc>
-    <lastmod>2017-04-23T13:57:08.000Z</lastmod>
-    <data>
-        <display>
-        <title>点击标题链接跳转到指定网址</title>
-        <pubTime>2016-09-04T16:00:00.000Z</pubTime>
-        
-        <tag>链接</tag>
-         
-         
-           
-             
-              <breadCrumb title="测试" url="http://www.qssq666.cn/categories/%E6%B5%8B%E8%AF%95/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.qssq666.cn/2016/09/05/notitle/</loc>
-    <lastmod>2017-04-23T13:57:08.000Z</lastmod>
-    <data>
-        <display>
-        <title></title>
-        <pubTime>2016-09-04T16:00:00.000Z</pubTime>
-        
-        <tag>测试</tag>
-         
-         
-           
-             
-              <breadCrumb title="测试" url="http://www.qssq666.cn/categories/%E6%B5%8B%E8%AF%95/"/>
-          
-        </display>
-    </data>
-    </url>
-
     
   <url>
     <loc>http://www.qssq666.cn/2016/09/05/video/</loc>
@@ -255,9 +239,25 @@
     </url>
 
     
-    
-    
-    
+  <url>
+    <loc>http://www.qssq666.cn/2016/09/05/notitle/</loc>
+    <lastmod>2017-04-23T13:57:08.000Z</lastmod>
+    <data>
+        <display>
+        <title></title>
+        <pubTime>2016-09-04T16:00:00.000Z</pubTime>
+        
+        <tag>测试</tag>
+         
+         
+           
+             
+              <breadCrumb title="测试" url="http://www.qssq666.cn/categories/%E6%B5%8B%E8%AF%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
   <url>
     <loc>http://www.qssq666.cn/2016/08/30/qiniu_cdn/</loc>
@@ -306,6 +306,28 @@
 
     
   <url>
+    <loc>http://www.qssq666.cn/2016/11/01/run_java/</loc>
+    <lastmod>2016-08-27T06:04:45.000Z</lastmod>
+    <data>
+        <display>
+        <title>A S IDE运行JAVA项目</title>
+        <pubTime>2016-10-31T16:00:00.000Z</pubTime>
+        
+        <tag>JAVA</tag>
+         
+        <tag>android studio</tag>
+         
+         
+           
+             
+              <breadCrumb title="Blog" url="http://www.qssq666.cn/categories/Blog/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.qssq666.cn/2016/08/24/markdown/</loc>
     <lastmod>2016-08-27T06:04:45.000Z</lastmod>
     <data>
@@ -338,28 +360,6 @@
         <pubTime>2017-06-01T13:55:42.400Z</pubTime>
         
         <tag>潜规则</tag>
-         
-         
-           
-             
-              <breadCrumb title="Blog" url="http://www.qssq666.cn/categories/Blog/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.qssq666.cn/2016/11/01/run_java/</loc>
-    <lastmod>2016-08-27T06:04:45.000Z</lastmod>
-    <data>
-        <display>
-        <title>A S IDE运行JAVA项目</title>
-        <pubTime>2016-10-31T16:00:00.000Z</pubTime>
-        
-        <tag>JAVA</tag>
-         
-        <tag>android studio</tag>
          
          
            
