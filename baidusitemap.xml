@@ -94,35 +94,25 @@
 
     
     
-    
-    
-    
-    
-    
-    
   <url>
-    <loc>http://www.qssq666.cn/2016/09/05/photoview/</loc>
+    <loc>http://www.qssq666.cn/2016/09/05/video/</loc>
     <lastmod>2017-04-23T13:57:08.000Z</lastmod>
     <data>
         <display>
-        <title>照片欣赏</title>
+        <title>测试视频预览</title>
         <pubTime>2016-09-04T16:00:00.000Z</pubTime>
         
-        <tag>consectetur</tag>
+        <tag>视频</tag>
          
          
            
              
-              <breadCrumb title="Photo" url="http://www.qssq666.cn/categories/Photo/"/>
+              <breadCrumb title="测试" url="http://www.qssq666.cn/categories/%E6%B5%8B%E8%AF%95/"/>
           
         </display>
     </data>
     </url>
 
-    
-    
-    
-    
     
   <url>
     <loc>http://www.qssq666.cn/2016/09/05/%E5%A4%9A%E7%BA%A7%E7%9B%AE%E5%BD%95%E6%B5%8B%E8%AF%95/</loc>
@@ -154,15 +144,25 @@
     
     
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
   <url>
-    <loc>http://www.qssq666.cn/2016/09/05/video/</loc>
+    <loc>http://www.qssq666.cn/2016/09/05/link/</loc>
     <lastmod>2017-04-23T13:57:08.000Z</lastmod>
     <data>
         <display>
-        <title>测试视频预览</title>
+        <title>点击标题链接跳转到指定网址</title>
         <pubTime>2016-09-04T16:00:00.000Z</pubTime>
         
-        <tag>视频</tag>
+        <tag>链接</tag>
          
          
            
@@ -173,7 +173,6 @@
     </data>
     </url>
 
-    
     
     
     
@@ -199,6 +198,7 @@
 
     
     
+    
   <url>
     <loc>http://www.qssq666.cn/2016/09/05/%E6%97%A0%E6%A0%87%E9%A2%98%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2017-04-23T13:57:08.000Z</lastmod>
@@ -220,19 +220,19 @@
 
     
   <url>
-    <loc>http://www.qssq666.cn/2016/09/05/link/</loc>
+    <loc>http://www.qssq666.cn/2016/09/05/photoview/</loc>
     <lastmod>2017-04-23T13:57:08.000Z</lastmod>
     <data>
         <display>
-        <title>点击标题链接跳转到指定网址</title>
+        <title>照片欣赏</title>
         <pubTime>2016-09-04T16:00:00.000Z</pubTime>
         
-        <tag>链接</tag>
+        <tag>consectetur</tag>
          
          
            
              
-              <breadCrumb title="测试" url="http://www.qssq666.cn/categories/%E6%B5%8B%E8%AF%95/"/>
+              <breadCrumb title="Photo" url="http://www.qssq666.cn/categories/Photo/"/>
           
         </display>
     </data>
@@ -307,16 +307,14 @@
 
     
   <url>
-    <loc>http://www.qssq666.cn/2016/11/01/java%E9%A1%B9%E7%9B%AE%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://www.qssq666.cn/2017/06/01/%E6%96%B0%E5%8A%A8%E6%80%81/</loc>
     <lastmod>2016-08-27T06:04:45.000Z</lastmod>
     <data>
         <display>
-        <title>A S IDE运行JAVA项目</title>
-        <pubTime>2016-10-31T16:00:00.000Z</pubTime>
+        <title>不再更新内置请关注我的其它软件</title>
+        <pubTime>2017-06-01T13:55:42.400Z</pubTime>
         
-        <tag>JAVA</tag>
-         
-        <tag>android studio</tag>
+        <tag>潜规则</tag>
          
          
            
@@ -329,14 +327,16 @@
 
     
   <url>
-    <loc>http://www.qssq666.cn/2017/06/01/%E6%96%B0%E5%8A%A8%E6%80%81/</loc>
+    <loc>http://www.qssq666.cn/2016/11/01/java%E9%A1%B9%E7%9B%AE%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2016-08-27T06:04:45.000Z</lastmod>
     <data>
         <display>
-        <title>不再更新内置请关注我的其它软件</title>
-        <pubTime>2017-06-01T13:55:42.400Z</pubTime>
+        <title>A S IDE运行JAVA项目</title>
+        <pubTime>2016-10-31T16:00:00.000Z</pubTime>
         
-        <tag>潜规则</tag>
+        <tag>JAVA</tag>
+         
+        <tag>android studio</tag>
          
          
            
